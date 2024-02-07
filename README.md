@@ -12,6 +12,7 @@ In this repository, I aim to share the resources and tasks I'm currently using d
 |------|---------------------------------------|
 | 01   | [Week 01](./Week01#readme)           |
 | 02   | [Week 02](./Week02#readme)           |
+| 03   | [Week 03](./Week03#readme)           |
 | ...  | ...                                   | 
 
 
