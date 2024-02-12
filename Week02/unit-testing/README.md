@@ -11,5 +11,7 @@
 # Tasks
 
 - **Unit-Testing-assignment**
-  - To solve the task, download the project called `unit-test-3` and check `account` and `store` packages. cover all unit tests for `AccountManagerImpl` and `MyStore`.
+  - To solve the task, download the project called `unit-test-3` and check `account` and `store` packages. cover all unit tests for `AccountManagerImpl` and `MyStore` and use AssertJ Framework.
 
+- To check **My Solution** 
+download the project called `unit-test-3-solution`.
