@@ -1,7 +1,10 @@
 # Fawry Full Stack Engineering Internship
 
-<details>  
- ![build](https://github.com/user-attachments/assets/0c4189f6-cdea-4a4f-984a-90a2520f661c)
+<details>
+  <summary>Click to view image</summary>
+  
+  ![Fawry](https://github.com/user-attachments/assets/0c4189f6-cdea-4a4f-984a-90a2520f661c)
+  
 </details>
 
 ## About 
