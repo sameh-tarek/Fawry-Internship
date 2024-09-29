@@ -1,5 +1,9 @@
 # Fawry Full Stack Engineering Internship
 
+<details>  
+ ![build](https://github.com/user-attachments/assets/0c4189f6-cdea-4a4f-984a-90a2520f661c)
+</details>
+
 ## About 
 
 This repository serves as a record of the resources and tasks I'm working on during my internship at [Fawry](https://www.fawry.com/). My focus is on mastering full-stack development using **Spring Boot** and **Angular**. By documenting my learning journey, I hope to keep things organized and make it easier for others to access valuable knowledge. I believe that the content shared here will benefit anyone interested in full-stack development and contribute to the broader learning community.
