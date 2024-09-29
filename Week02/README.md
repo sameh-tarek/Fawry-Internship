@@ -5,3 +5,4 @@
 - [Maven](./Maven#readme)
 - [Jakarta EE(Servlets & Jsp & Filters)](./Jakarta%20EE#readme)
 - [Unit testing](./unit-testing#readme)
+- [Design Principles](./design-principles#readme)
